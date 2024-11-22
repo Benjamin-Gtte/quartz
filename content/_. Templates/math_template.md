@@ -1,6 +1,0 @@
----
-tags: 
-Reference: 
-Stage: 
-Repetitions:
----

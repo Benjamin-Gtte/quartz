@@ -1,6 +1,0 @@
-- [[manifold]]
-- [[topological manifold]]
-- Tangent space to a manifold
-- tangent bundle to a manifold
-- fibre bundle
-- 
